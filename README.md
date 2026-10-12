@@ -1,4 +1,14 @@
-Heyy its Rafia
-An Aspiring Data Scientist | Machine Learning & LLM Enthusiast
-I'm a Computer Science student who enjoys exploring data, building intelligent systems, and applying machine learning techniques to solve real-world problems. I'm continuously learning and strengthening my skills in Python, statistical analysis, database management, and AI/ML, with a goal of turning data into meaningful insights and practical solutions. 
+👋 Hi, I'm Rafia!
+
+💻 Computer Science Student | Aspiring Data Scientist
+
+🔭 Exploring Data Science, Machine Learning, and Large Language Models (LLMs)
+
+🐍 Working with Python, SQL, DBMS, Statistics and Machine Learning
+
+🧠 Interested in ML, AI, and data-driven solutions
+
+🚀 Learning by building hands-on projects
+
+🤝 Open to collaborations and learning opportunities
 
